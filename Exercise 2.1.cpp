@@ -1,3 +1,6 @@
+//samuel daniel
+//reg:BCS-03-0118/2025
+
 #include <iostream>
 using namespace std;
 class Addition{
@@ -23,3 +26,4 @@ class Addition{
           return 0;
           }
           
+
